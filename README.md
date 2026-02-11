@@ -1,9 +1,8 @@
 # خط فرمان لینوکس
 ### درآمدی جامع بر ساختار و مفاهیم
 **اثر: ویلیام شاتس**
-
-[![ترجمه محمد مهدی نژاد](https://img.shields.io/badge/%D8%AA%D8%B1%D8%AC%D9%85%D9%87-%D9%85%D8%AD%D9%85%D8%AF%20%D9%85%D9%87%D8%AF%DB%8C%20%D9%86%DA%98%D8%A7%D8%AF-blue?style=for-the-badge)](https://mohammadmehdinejad.ir)
-[![نسخه](https://img.shields.io/badge/%D9%88%DB%8C%D8%B1%D8%A7%DB%8C%D8%B4-%D8%A7%D9%88%D9%84-orange?style=for-the-badge)](#)
+[![Translator: Mohammad Mehdi Nejad](https://img.shields.io/badge/Translator-Mohammad%20Mehdi%20Nejad-blue?style=for-the-badge)](https://mohammadmehdinejad.ir)
+[![Version](https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge)](#)
 
 ---
 
