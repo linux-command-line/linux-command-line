@@ -1,7 +1,7 @@
 # خط فرمان لینوکس | The Linux Command Line
 ### درآمدی جامع بر ساختار و مفاهیم | A Complete Introduction
 
-[![Translator: Mohammad Mehdi Nejad](https://img.shields.io/badge/Translator-Mohammad%20Mehdi%20Nejad-blue?style=for-the-badge)](https://mohammadmehdinejad.ir)
+[![Translator: Mohammad Mehdinejad](https://img.shields.io/badge/Translator-Mohammad%20Mehdi%20Nejad-blue?style=for-the-badge)](https://mohammadmehdinejad.ir)
 [![Version](https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge)](#)
 
 ---
@@ -78,5 +78,5 @@ No, basic computer knowledge is enough. All technical concepts are explained.
 - [linuxcommandline.ir](https://linuxcommandline.ir)
 
 ---
-**Translated by | ترجمه شده توسط [Mohammad Mehdi Nejad](https://mohammadmehdinejad.ir)**
+**Translated by | ترجمه شده توسط [Mohammad Mehdinejad](https://mohammadmehdinejad.ir)**
 *Part of the [linuxcommand.org](https://linuxcommand.org/) educational project.*
