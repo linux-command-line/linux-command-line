@@ -1,7 +1,7 @@
 # خط فرمان لینوکس | The Linux Command Line
 ### درآمدی جامع بر ساختار و مفاهیم | A Complete Introduction
 
-[![Translator: Mohammad Mehdinejad](https://img.shields.io/badge/Translator-Mohammad%20Mehdi%20Nejad-blue?style=for-the-badge)](https://mohammadmehdinejad.ir)
+[![Translator: Mohammad Mehdinejad](https://img.shields.io/badge/Translator-Mohammad%20Mehdinejad-blue?style=for-the-badge)](https://mohammadmehdinejad.ir)
 [![Version](https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge)](#)
 
 ---
