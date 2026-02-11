@@ -23,7 +23,7 @@
 
 | English | فارسی |
 | :--- | :--- |
-| **The Linux Command Line** by William Shotts, translated by Mohammad Mehdi Nejad, is a comprehensive guide that helps users deeply understand Linux principles, commands, and core concepts. | کتاب **«خط فرمان لینوکس»** نوشته ویلیام شاتس و ترجمه محمد مهدی‌نژاد، راهنمایی جامع و معتبر است که به کاربران کمک می‌کند تا با اصول، دستورات و مفاهیم کلیدی لینوکس آشنا شوند. |
+| **The Linux Command Line** by William Shotts, translated by Mohammad Mehdinejad, is a comprehensive guide that helps users deeply understand Linux principles, commands, and core concepts. | کتاب **«خط فرمان لینوکس»** نوشته ویلیام شاتس و ترجمه محمد مهدی‌نژاد، راهنمایی جامع و معتبر است که به کاربران کمک می‌کند تا با اصول، دستورات و مفاهیم کلیدی لینوکس آشنا شوند. |
 | This book covers everything from the shell environment and file management to Bash scripting, networking, and system administration with practical examples. | این کتاب با ارائه مثال‌های عملی، از محیط شل و مدیریت فایل‌ها گرفته تا اسکریپت‌نویسی Bash، شبکه و مدیریت سیستم را پوشش می‌دهد. |
 | This translation is published under the **CC BY-NC-ND 3.0** license, making it a valuable resource for students and developers. | این ترجمه تحت مجوز **CC BY-NC-ND 3.0** منتشر شده و مرجعی ارزشمند برای دانشجویان و توسعه‌دهندگان است. |
 
